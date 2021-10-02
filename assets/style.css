@@ -69,3 +69,14 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+#current-hour {
+  position: relative;
+  left: 100px;
+}
+
+#saveBtn {
+  position: relative;
+  right: 29px;
+  top: 1px;
+}
