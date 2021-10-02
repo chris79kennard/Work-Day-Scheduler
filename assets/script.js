@@ -1,5 +1,12 @@
 var today = moment();
 $("#time").text(today.format("[Today is ] MMM Do, YYYY, h:mm A"));
+
+var todayOnCalender = moment();
+$(".current-hour").text(todayOnCalender.format(" h: A"));
+console.log("currentTime");
+
+// var hourFromNow = moment().startOf("hour").fromNow();
+// $("#current-hour").text(hourFromNow.format(" h: A"));
 // grab the div with class of container and store in variable
 
 // grab current date p tag and stor in variable
