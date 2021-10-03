@@ -15,7 +15,7 @@
 
 # screen shot
 
-![Work_day_scheduler](.assets/screencapture-chris79kennard-github-io-Work-Day-Scheduler-2021-10-03-18_03_51.png)
+![Work_day_scheduler](assets/image.png)
 
 # links
 
