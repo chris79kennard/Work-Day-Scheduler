@@ -1,8 +1,11 @@
 var today = moment();
 $("#time").text(today.format("[Today is ] MMM Do, YYYY, h:mm A"));
+var textAreaEl = $("#textAreaText");
 
-// var hourFromNow = moment().startOf("hour").fromNow();
-// $("#current-hour").text(hourFromNow.format(" h: A"));
+// function textAreaSave(event) {
+//   // Prevent the default behavior
+//   event.preventDefault();
+// console.log()
 // grab the div with class of container and store in variable
 
 // grab current date p tag and stor in variable
